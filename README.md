@@ -18,3 +18,5 @@
   -webkit-box-orient:vertical;
 
   -webkit-line-clamp:2; 
+3.文本两端对齐
+  text-align-last:justify
