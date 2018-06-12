@@ -20,3 +20,4 @@
   -webkit-line-clamp:2; 
 3.文本两端对齐
   text-align-last:justify
+js获取某月的天数：new Date(year, month, 0).getDate();
